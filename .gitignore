@@ -1,0 +1,11 @@
+# Local/private material, not portfolio content
+private/
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.pyc
+*.zip
+.DS_Store
+Thumbs.db
